@@ -1,3 +1,5 @@
+Model: Opus 4.6. Verdict: fully implemented
+
 # Intel 8080 CP/M Emulator
 
 A complete Intel 8080-based personal computer emulator running CP/M 2.2, with an embedded text editor, assembler, and BASIC interpreter. Backend in .NET 10, frontend in React.
