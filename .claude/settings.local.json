@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dotnet:*)",
+      "Bash(cd:*)",
+      "Bash(tail:*)",
+      "Bash(cd /c/Projects/AI/i8080_Opus46 && rm -rf frontend && npm create vite@latest frontend -- --template react-ts 2>&1)",
+      "Bash(cd /c/Projects/AI/i8080_Opus46/frontend && npx tsc --noEmit 2>&1)",
+      "Bash(echo TypeScript OK:*)",
+      "Bash(sleep 5 && curl -s http://localhost:5026/api/health 2>&1)",
+      "Bash(head:*)",
+      "Bash(sleep 4:*)",
+      "Bash(cd /c/Projects/AI/i8080_Opus46/frontend && npm run dev 2>&1)",
+      "Bash(curl:*)",
+      "Bash(ls:*)",
+      "Bash(taskkill:*)"
+    ]
+  }
+}

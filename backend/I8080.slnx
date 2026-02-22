@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/I8080.Core/I8080.Core.csproj" />
+    <Project Path="src/I8080.CpmSystem/I8080.CpmSystem.csproj" />
+    <Project Path="src/I8080.Programs/I8080.Programs.csproj" />
+    <Project Path="src/I8080.Web/I8080.Web.csproj" />
+  </Folder>
+</Solution>
