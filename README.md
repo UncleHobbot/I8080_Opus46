@@ -1,4 +1,5 @@
-Model: Opus 4.6. Verdict: fully implemented
+### Model: **Opus 4.6**
+- [x] fully implemented
 
 # Intel 8080 CP/M Emulator
 
